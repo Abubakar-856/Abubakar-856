@@ -82,4 +82,4 @@ I'm interested in Data Analyst and analytics-focused opportunities where I can u
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakarchaudhary1999/)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Abubakar-856&color=0)](https://github.com/Abubakar-856)
+
